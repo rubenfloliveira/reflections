@@ -1,0 +1,12 @@
+Como a visualização de um diff entre duas versões de um arquivo ajuda você a ver o bug que foi introduzido?
+
+Reduz as possibilidades apenas às linhas que foram alteradas.
+
+Como ter fácil acesso a todo o histórico de um arquivo pode torná-lo um programador mais eficiente no longo prazo?
+
+Permite identificar os erros cometidos, impedindo assim que se voltem a cometer.
+
+Na sua opinião, quais são os prós e contras de escolher manualmente quando criar um commit, como ocorre no Git, v. o salvamento automático de versões, como no Google Docs?
+
+Commits manuais permitem flexibilidade e evitam commits desnecessarios. Salvamento automatico previne o esquecimento que o utilizador muitas vezes tem.
+asdasdasd
